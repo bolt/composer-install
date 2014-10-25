@@ -18,12 +18,6 @@
     "minimum-stability": "dev",
     
     "scripts": {
-        "post-install-cmd": [
-            "Bolt\\Composer\\ScriptHandler::installAssets"
-        ],
-        "post-update-cmd": [
-            "Bolt\\Composer\\ScriptHandler::installAssets"
-        ],
         "post-create-project-cmd": [
             "Bolt\\Composer\\ScriptHandler::bootstrap"
         ]
