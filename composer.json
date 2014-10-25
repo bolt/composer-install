@@ -3,9 +3,7 @@
     "description": "Handles an install of Bolt with a few path customisations.",
     "license": "MIT",
     "repositories": [
-        {"type": "vcs","url": "https://github.com/rossriley/bolt"},
-        {"type": "vcs","url": "https://github.com/bolt/composer-install"}
-    
+        {"type": "vcs","url": "https://github.com/rossriley/bolt"}    
     ],
     
     "require": {
