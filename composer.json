@@ -2,12 +2,9 @@
     "name": "bolt/composer-install",
     "description": "Handles an install of Bolt with a few path customisations.",
     "license": "MIT",
-    "repositories": [
-        {"type": "vcs","url": "https://github.com/rossriley/bolt"}    
-    ],
     
     "require": {
-        "bolt/bolt": "dev-composer-installer-script"
+        "bolt/bolt": "dev-master"
     },
     "authors": [
         {
