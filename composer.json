@@ -13,7 +13,8 @@
         }
     ],
     "minimum-stability": "dev",
-    
+    "prefer-stable": true,
+
     "scripts": {
         "post-create-project-cmd": [
             "Bolt\\Composer\\ScriptHandler::bootstrap"
