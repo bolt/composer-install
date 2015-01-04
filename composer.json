@@ -4,7 +4,7 @@
     "license": "MIT",
     
     "require": {
-        "bolt/bolt": "dev-master"
+        "bolt/bolt": "~2.0"
     },
     "authors": [
         {
