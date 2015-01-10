@@ -4,7 +4,8 @@
     "license": "MIT",
     
     "require": {
-        "bolt/bolt": "~2.0"
+        "bolt/bolt": "~2.0",
+        "composer/composer": "1.0.*@dev"
     },
     "authors": [
         {
