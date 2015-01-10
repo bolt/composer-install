@@ -12,7 +12,7 @@
             "email": "riley.ross@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "beta",
     "prefer-stable": true,
 
     "scripts": {
