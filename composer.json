@@ -4,7 +4,7 @@
     "license": "MIT",
     
     "require": {
-        "bolt/bolt": "~2.0",
+        "bolt/bolt": "~2.1",
         "composer/composer": "1.0.*@dev",
         "ircmaxell/random-lib": "dev-master"
     },
