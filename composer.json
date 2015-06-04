@@ -3,7 +3,7 @@
     "description": "Handles an install of Bolt with a few path customisations.",
     "license": "MIT",
     "require": {
-        "bolt/bolt": "~2.1",
+        "bolt/bolt": "~2.2",
         "composer/composer": "1.0.*@dev",
         "ircmaxell/random-lib": "dev-master"
     },
@@ -22,7 +22,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "2.2-dev"
+            "dev-master": "2.3-dev"
         },
         "bolt-web-dir": "./",
         "bolt-app-dir": "./app"
