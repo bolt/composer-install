@@ -1,5 +1,5 @@
 paths:
     web: public
-    themebase: public/themes
+    themebase: public/theme
     files: public/files
     view: public/bolt-public/view
