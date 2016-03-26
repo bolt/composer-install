@@ -5,9 +5,7 @@
     "license": "MIT",
     "require": {
         "php": "^5.5.9 || ^7.0",
-        "bolt/bolt": "^3.0@dev",
-        "bolt/filesystem": "^2.0@dev",
-        "bolt/thumbs": "^3.0@dev",
+        "bolt/bolt": "^3.0@beta",
         "composer/composer": "^1.0@beta",
         "PasswordLib/PasswordLib": "^1.0@beta"
     },
