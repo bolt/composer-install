@@ -9,6 +9,8 @@
         "composer/composer": "^1.0@beta",
         "PasswordLib/PasswordLib": "^1.0@beta"
     },
+    "minimum-stability": "beta",
+    "prefer-stable": true,
     "scripts": {
         "post-install-cmd": [
             "Bolt\\Composer\\ScriptHandler::installAssets"
