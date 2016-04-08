@@ -3,16 +3,9 @@
     "description": "Handles an install of Bolt with a few path customisations.",
     "license": "MIT",
     "require": {
-        "bolt/bolt": "~2.2",
-        "composer/composer": "1.0.*@dev",
+        "bolt/bolt": "^2.2",
         "ircmaxell/random-lib": "dev-master"
     },
-    "authors": [
-        {
-            "name": "Ross Riley",
-            "email": "riley.ross@gmail.com"
-        }
-    ],
     "minimum-stability": "beta",
     "prefer-stable": true,
     "scripts": {
