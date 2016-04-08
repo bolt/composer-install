@@ -6,7 +6,6 @@
     "require": {
         "php": "^5.5.9 || ^7.0",
         "bolt/bolt": "^3.0@beta",
-        "composer/composer": "^1.0@beta",
         "PasswordLib/PasswordLib": "^1.0@beta"
     },
     "minimum-stability": "beta",
