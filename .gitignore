@@ -21,7 +21,6 @@ Vagrantfile
 /tags
 .*.swp
 .swp
-*.lock
 .buildpath
 .project
 /bolt.log
