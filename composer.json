@@ -7,7 +7,7 @@
         "php": "^5.6 || ^7.0",
         "bolt/bolt": "4.0.x-dev@dev"
     },
-    "minimum-stability": "beta",
+    "minimum-stability": "dev",
     "prefer-stable": true,
     "scripts": {
         "post-install-cmd": [
