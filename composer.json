@@ -8,7 +8,7 @@
         "bolt/bolt": "^3.2",
         "passwordlib/passwordlib": "^1.0@beta"
     },
-    "minimum-stability": "beta",
+    "minimum-stability": "stable",
     "prefer-stable": true,
     "scripts": {
         "post-install-cmd": [
