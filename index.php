@@ -54,7 +54,7 @@
 
 <pre>
 paths:
-    web: %site%/<?php echo basename(getcwd()) . "\n"; ?>
+    web: "%site%/<?php echo basename(getcwd()) . "\n"; ?>"
 </pre>
 
     <strong>
