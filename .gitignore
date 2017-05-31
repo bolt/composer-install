@@ -1,26 +1,28 @@
-cache/
-thumbs/
-vendor/
+# PHP files and folders
+/vendor
+composer.phar
+php-cs-fixer.phar
+scrutinizer.phar
 
 # NPM, Gulp and Grunt stuff
-node_modules
-bower_components
-npm-debug.log
 .sass-cache
+bower_components
+node_modules
+npm-debug.log
 
 # File-system cruft and temporary files
-scrutinizer.phar
-php-cs-fixer.phar
+*.gz
+*.sublime-*
+*.zip
+.*.swp
+._*
+.buildpath
 .DS_Store
 .idea
-__*
-._*
-Vagrantfile
-.vagrant*
-*.sublime-*
-/tags
-.*.swp
-.swp
-.buildpath
 .project
-/bolt.log
+.swp
+.Trashes
+.vagrant*
+__*
+Thumbs.db
+Vagrantfile
