@@ -1,5 +1,7 @@
 # PHP files and folders
 /vendor
+
+# Common developer tools
 composer.phar
 php-cs-fixer.phar
 scrutinizer.phar
