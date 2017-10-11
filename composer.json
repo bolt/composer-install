@@ -24,6 +24,11 @@
             "nut extensions:setup"
         ]
     },
+    "autoload": {
+        "psr-4": {
+            "Bundle\\": "src/"
+        }
+    },
     "extra": {
         "branch-alias": {
             "dev-3.4" : "3.4.x-dev"
