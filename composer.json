@@ -26,10 +26,5 @@
         "psr-4": {
             "Bundle\\": "src/"
         }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-3.5" : "3.5.x-dev"
-        }
     }
 }
