@@ -21,10 +21,5 @@
             "Bolt\\Composer\\ScriptHandler::installThemesAndFiles",
             "nut extensions:setup"
         ]
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-3.x" : "3.x-dev"
-        }
     }
 }
