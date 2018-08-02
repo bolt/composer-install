@@ -8,8 +8,6 @@
         "bolt/bolt": "3.x-dev@dev",
         "passwordlib/passwordlib": "^1.0@beta"
     },
-    "minimum-stability": "dev",
-    "prefer-stable": true,
     "scripts": {
         "post-install-cmd": [
             "Bolt\\Composer\\ScriptHandler::installAssets"
