@@ -7,8 +7,6 @@
         "php": "^7.1.3",
         "bolt/bolt": "4.0.x-dev@dev"
     },
-    "minimum-stability": "dev",
-    "prefer-stable": true,
     "scripts": {
         "post-install-cmd": [
             "Bolt\\Composer\\ScriptHandler::installAssets"
