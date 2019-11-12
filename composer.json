@@ -4,8 +4,8 @@
     "type": "project",
     "license": "MIT",
     "require": {
-        "php": "^5.5.9 || ^7.0",
-        "bolt/bolt": "^3.6"
+        "php": "^7.1",
+        "bolt/bolt": "^3.7"
     },
     "minimum-stability": "beta",
     "prefer-stable": true,    
