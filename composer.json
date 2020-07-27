@@ -27,5 +27,8 @@
         "psr-4": {
             "Bundle\\": "src/"
         }
+    },
+    "extra": {
+        "public-dir": "public"
     }
 }
